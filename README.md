@@ -1,5 +1,8 @@
 ### Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm Youcefi yassine
 
+<a href="https://github.com/yani27"><img src="https://img.shields.io/badge/follow-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github follow"/></a>
+<a href="https://www.linkedin.com/in/yassine-youcefi-1392b1120/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Profile"/></a> &nbsp;
+
 ## I am a young man, Developer, and athletic!!
 
 - 🔭 I’m currently learning Django
@@ -54,3 +57,5 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+<code><img height="30" src="https://devicon.dev/devicon.git/icons/visualstudio/visualstudio-plain.svg"></code>
