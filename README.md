@@ -42,10 +42,6 @@
 
 <br/>
 
-<br/>
-<img src="https://komarev.com/ghpvc/?username=yani27" alt="hedythedev"/>
-<a href="https://github.com/yani27"><img src="https://img.shields.io/github/stars/yani27?color=blue&style=flat-box&logo=github" alt="Github stars"/></a>
-
 <details>
      <br/>
 <summary>⚡ Pined Repositories</summary>
