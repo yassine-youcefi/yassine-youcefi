@@ -11,14 +11,6 @@
 - ⚡ I love training and play football
 - ✨ I’m a Self-learner, passionate to learn new things
 
-## My interests 💙
-
-- Web development
-- python
-- machine learning
-
-  <br/>
-
 ### Connect with me:
 
 <a target="_blank" href="https://www.linkedin.com/in/yassine-youcefi-1392b1120/">
