@@ -46,7 +46,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://devicon.dev/devicon.git/icons/visualstudio/visualstudio-plain.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 
 <br/>
 
@@ -56,3 +56,21 @@
 
 <details>
      <br/>
+<summary>⚡ Pined Repositories</summary>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yani27&repo=web-scraping-nike-website&show_icons=true&theme=chartreuse-dark)](https://github.com/yani27/web-scraping-nike-website)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yani27&repo=violence_detection&show_icons=true&theme=chartreuse-dark)](https://github.com/yani27/violence_detection)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yani27&repo=my_portfolio&show_icons=true&theme=chartreuse-dark)](https://github.com/yani27/my_portfolio)
+
+ <br/>
+</details>
+
+<br/>
+
+<details>
+     <br/>
+<summary>GitHub Stats</summary>
+<center><img align="left" alt="yani's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=yani27&show_icons=true&theme=radical" /></center>
+ <br/>
+</details>
