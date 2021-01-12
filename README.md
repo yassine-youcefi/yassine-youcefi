@@ -10,8 +10,7 @@
 - ⚡ I love training and play football
 - ✨ I’m a Self-learner, passionate to learn new things
 
-### Connect with me:
-
+<br/>
 <a target="_blank" href="https://www.linkedin.com/in/yassine-youcefi-1392b1120/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -29,7 +28,8 @@
 
 <br/>
 
-**Languages and Tools:**
+<br/>
+## Languages and Tools:
 
 <code><img hieght="30" src="https://camo.githubusercontent.com/b861b92581ad5a7b81147073d729eda727f71985d72f3dd198e0afd792a6f9de/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f74656e736f72666c6f772f74656e736f72666c6f772d69636f6e2e737667"></code>
 <code><img hieght="30" src="https://camo.githubusercontent.com/cb2324a4c0e1910089f481d56e1f887d6e96114101987dfbb6ef6f9df1e0bf08/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f706f636f6f5f666c61736b2f706f636f6f5f666c61736b2d69636f6e2e737667"></code>
@@ -49,8 +49,6 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yani27&repo=violence_detection&show_icons=true&theme=chartreuse-dark)](https://github.com/yani27/violence_detection)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yani27&repo=my_portfolio&show_icons=true&theme=chartreuse-dark)](https://github.com/yani27/my_portfolio)
-
-
 
 <br/>
 
