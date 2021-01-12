@@ -31,7 +31,8 @@
 <br/>
 
 **Languages and Tools:**
-
+<code><img hieght="30" src="https://camo.githubusercontent.com/b861b92581ad5a7b81147073d729eda727f71985d72f3dd198e0afd792a6f9de/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f74656e736f72666c6f772f74656e736f72666c6f772d69636f6e2e737667"></code>
+<code><img hieght="30" src="https://camo.githubusercontent.com/cb2324a4c0e1910089f481d56e1f887d6e96114101987dfbb6ef6f9df1e0bf08/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f706f636f6f5f666c61736b2f706f636f6f5f666c61736b2d69636f6e2e737667"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
@@ -39,8 +40,6 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-
-<br/>
 
 <details>
      <br/>
