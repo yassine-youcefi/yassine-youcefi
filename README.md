@@ -43,17 +43,11 @@
  <br/>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yani27)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yani27)](https://github.com/ryo-ma/github-profile-trophy)</br>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yani27&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
      
-<summary>Pined Repositories</summary>
-<br/>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yani27&repo=web-scraping-nike-website&show_icons=true&theme=chartreuse-dark)](https://github.com/yani27/web-scraping-nike-website)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yani27&repo=violence_detection&show_icons=true&theme=chartreuse-dark)](https://github.com/yani27/violence_detection)&nbsp;
-
-<summary>GitHub Stats</summary>
-
-<center><img align="left" alt="yani's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=yani27&show_icons=true&theme=radical" /></center>
 
 
