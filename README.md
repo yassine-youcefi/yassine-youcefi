@@ -10,6 +10,8 @@
 - ⚡ I love training and play football
 - ✨ I’m a Self-learner, passionate to learn new things
 
+[![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
 <br/>
 <a target="_blank" href="https://www.linkedin.com/in/yassine-youcefi-1392b1120/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -44,6 +46,10 @@
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yani27)](https://github.com/ryo-ma/github-profile-trophy)</br>
+
+- Most used languages : </br>
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yani27&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+-Github Stats : </br>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yani27&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
