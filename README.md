@@ -16,15 +16,16 @@
  ⚡ I love training and play football </br>
  ✨ I’m a Self-learner, passionate to learn new things </br>
 
-<a href="https://github.com/yani27"><img src="https://img.shields.io/badge/follow-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github follow"/></a>
+
 <a href="https://www.linkedin.com/in/yassine-youcefi-1392b1120/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Profile"/></a> &nbsp;
 
-</h5>
-<!--
-[![Linkedin Badge](https://img.shields.io/badge/-yassine-youcefi-1392b1120-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yassine-youcefi-1392b1120//)](https://www.linkedin.com/in/yassine-youcefi-1392b1120/)
 [![Instagram Badge](https://img.shields.io/badge/-youcefi_yani-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/youcefi_yani/)](https://www.instagram.com/youcefi_yani/)
+
 [![Gmail Badge](https://img.shields.io/badge/-yanilacamora@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yanilacamora@gmail.com)](mailto:yanilacamora@gmail.com)
--->
+
+
+</h5>
+
 
 
 
