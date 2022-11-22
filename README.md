@@ -74,6 +74,13 @@
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=yassine-youcefi&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
+<h2 align="center">⚡ Repositories ⚡</h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/yassine-youcefi/web-scraping-nike-website" title="web-scraping-nike-website"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yassine-youcefi&repo=web-scraping-nike-website&theme=react&border_color=61dafb&border_radius=10"></a>
+  
+  <a align="right" href="https://github.com/yassine-youcefi/violence_detection" title="violence detection"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yassine-youcefi&repo=violence_detection&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
 
 <br/><br/><br/><br/><br/><br/>
 
