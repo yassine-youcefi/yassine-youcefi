@@ -6,9 +6,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;+I'm+Yassine+youcefi+;Backend+developer!&center=true&size=30">
   </a>
 </h1>
-<div align="center">
+<!-- <div align="center">
   <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-</div>
+</div> -->
 <h5 align="center">
   
  🔭 currently i'm working on [KIO](https://www.kiostore.net/) </br>
