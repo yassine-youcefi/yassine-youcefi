@@ -16,9 +16,13 @@
 </h4>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/yassine-youcefi-1392b1120/]([https://www.linkedin.com/in/mohammed-yassine-youcefi-1392b1120/](https://www.linkedin.com/in/mohammed-yassine-youcefi-python-developer/))"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"></a>
+  
+  <a href="https://www.linkedin.com/in/mohammed-yassine-youcefi-python-developer/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"></a>
+  
   <a href="https://www.instagram.com/mohammed_yassine_youcefi?igsh=OHFha2c3ajJmbjlk&utm_source=qr"><img src="https://img.shields.io/badge/-youcefi_yani-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  
   <a href="mailto:mohamed.youcefi.etu@univ-mosta.dz"><img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"></a>
+  
 </p>
 
 <h2 align="center">🔥 Languages, Frameworks, Tools & Abilities 🔥</h2>
