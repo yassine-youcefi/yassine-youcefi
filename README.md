@@ -66,5 +66,5 @@
 </h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yassine-youcefi&rank_icon=github&bg_color=0c1117&title_color=fff&text_color=36bcf7&icon_color=fff&show_icons=true&include_all_commits=true&hide=issues,contribs" alt="Yassine's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=yassine-youcefi&rank_icon=github&bg_color=0c1117&title_color=fff&text_color=36bcf7&icon_color=fff&show_icons=true&hide=issues,contribs&show=prs_merged&include_all_commits=true" alt="Yassine's GitHub stats">
 </p>
