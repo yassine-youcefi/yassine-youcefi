@@ -1,12 +1,9 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=2000&center=true&vCenter=true&multiline=true&repeat=false&width=437&height=90&lines=Hello+There!%F0%9F%91%8B;I'm+Yassine+Youcefi" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=2000&center=true&vCenter=true&multiline=true&repeat=false&width=437&height=90&lines=Hello+There!%F0%9F%91%8B;I'm+Mohammed+Yassine+Youcefi" alt="Typing SVG" />
   </a>
 </h1>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/your-photo.png" width="120" alt="Yassine Youcefi" style="border-radius: 50%;" />
-</p>
 
 <h3 align="center">Senior Software Engineer & Technical Lead | Dubai, UAE 🇦🇪</h3>
 
