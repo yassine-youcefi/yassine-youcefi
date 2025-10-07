@@ -84,17 +84,14 @@
 
 ### 📊 GitHub Insights
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yassine-youcefi&rank_icon=github&bg_color=0c1117&title_color=fff&text_color=36bcf7&icon_color=fff&show_icons=true&hide=issues,contribs&include_all_commits=true" alt="GitHub Stats" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yassine-youcefi&theme=tokyonight&background=0c1117&ring=36bcf7&fire=36bcf7&currStreakNum=ffffff&currStreakLabel=36bcf7" alt="GitHub Streak" />
 </p>
 
----
-
-### 🤝 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammed-yassine-youcefi-python-developer/">
